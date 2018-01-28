@@ -10,5 +10,5 @@ layout: post
 
 ## 博客平台
 
-感谢[Yan Su](https://github.com/suyan) 基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成
+感谢[Yan Su](https://github.com/suyan) 基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成的博客
 
