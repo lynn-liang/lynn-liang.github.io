@@ -5,7 +5,7 @@ category: 读书
 keywords: 用户故事, 敏捷开发 
 ---
 
-![pic](https://img3.doubanio.com/lpic/s6159440.jpg)
+![pic](https://github.com/lynn-liang/lynn-liang.github.io/blob/master/assets/img/userstoryandscrum.jpg?raw=true)
 
 作者：Mike Cohn
 
