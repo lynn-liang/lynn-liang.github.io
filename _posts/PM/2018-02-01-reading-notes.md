@@ -7,6 +7,8 @@ keywords: 用户故事, 敏捷开发
 
 ![pic](https://img3.doubanio.com/lpic/s6159440.jpg)
 
+作者：Mike Cohn
+
 # 2. 编写故事
 优秀故事的六个特征（INVEST）:
 1. 独立的（Independent）
